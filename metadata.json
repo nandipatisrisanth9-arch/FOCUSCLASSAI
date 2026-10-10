@@ -1,0 +1,9 @@
+{
+  "name": "FocusClass AI",
+  "description": "Smart classroom companion measuring real-time comprehension through AI Teach-Back, Class Pulse, and adaptive Learning Memory.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
